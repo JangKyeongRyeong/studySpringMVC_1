@@ -32,7 +32,6 @@ public class FrontControllerServletV1 extends HttpServlet {
 
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        //System.out.println("FrontControllerServletV1.service");
 
         /**
          *  URI 가져오기
